@@ -1,5 +1,11 @@
 # botica_indica
-Recipe inspired by Professor Shonku
+
+A recipe inspired by Professor Shonku for those who want to:
+
+   * eat a healthy and nutritious diet, and
+   
+   * do not have the time
+
 
 * Inspirations
 
@@ -7,21 +13,37 @@ Recipe inspired by Professor Shonku
 
 * Ingredients
 
-   * Beans 
+   * Vegetables
+
+      * Beans 
    
-      * long beans
+         * long beans
       
-      * kidney beans
+         * kidney beans
       
-   * Garbanzo peas
+      * Garbanzo peas
    
+      * Green lentils
    
-   * Cabbage
+      * Cabbage
    
-   * Eggs
+   * Proteins
    
-   * Mushrooms
+      * Eggs
    
+      * Mushrooms
+   
+   * Spices
+   
+      * Indian spices
+      
+         * Turmeric
+         
+         * Garlic
+         
+         * Ginger
+         
+         * Chillies
    
 * Contact
 
