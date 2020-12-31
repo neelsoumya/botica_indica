@@ -64,6 +64,8 @@
    
 * Additional ingredients
 
+    * canned tuna (fried) 
+
     * nuts and seeds
     
     * yogurt
