@@ -62,6 +62,13 @@
   * taste periodically
   
    
+* Additional ingredients
+
+    * nuts and seeds
+    
+    * yogurt
+    
+   
 * Contact
 
    * Professor Trilokeshwar Shonku
