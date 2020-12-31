@@ -30,6 +30,8 @@
       * Cabbage
       
       * Chopped Onions
+      
+      * Carrots
    
    * Proteins
    
