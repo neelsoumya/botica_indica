@@ -51,9 +51,9 @@
    
 * Protocol
 
-  * Lots of patience
+  * lots of patience
   
-  * Slow cook in oil and spices
+  * slow cook in oil and spices
   
   * add chopped onions
   
@@ -70,6 +70,12 @@
     
     * yogurt
     
+    
+* Yet more ingredients
+    
+    * multi-vitamins, and
+    
+    * physical activity
    
 * Contact
 
