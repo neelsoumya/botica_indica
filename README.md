@@ -28,6 +28,8 @@
       * Green lentils
    
       * Cabbage
+      
+      * Chopped Onions
    
    * Proteins
    
@@ -52,6 +54,8 @@
   * Lots of patience
   
   * Slow cook in oil and spices
+  
+  * add chopped onions
   
   * add ingredients
   
