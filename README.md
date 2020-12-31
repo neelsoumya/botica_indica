@@ -1,6 +1,6 @@
 # botica_indica
 
-A recipe inspired by Professor Shonku for those who want to:
+* A recipe inspired by Professor Shonku for those who want to:
 
    * eat a healthy and nutritious diet, and
    
