@@ -4,7 +4,9 @@
 
    * eat a healthy and nutritious diet, and
    
-   * do not have the time
+   * do not have the time, and
+   
+   * are tired of eating Ramen or Maggi noodles
 
 
 * Inspirations
