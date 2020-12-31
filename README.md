@@ -45,6 +45,17 @@
          
          * Chillies
    
+* Protocol
+
+  * Lots of patience
+  
+  * Slow cook in oil and spices
+  
+  * add ingredients
+  
+  * taste periodically
+  
+   
 * Contact
 
    * Professor Trilokeshwar Shonku
