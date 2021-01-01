@@ -66,7 +66,7 @@
    
 * Additional ingredients
 
-    * canned tuna (fried) 
+    * canned tuna (fried) or some other fish
 
     * nuts and seeds
     
