@@ -75,7 +75,9 @@
     
 * Yet more ingredients
     
-    * multi-vitamins, and
+    * multi-vitamins
+    
+    * fruits, and
     
     * physical activity
    
