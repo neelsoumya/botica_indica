@@ -80,13 +80,20 @@
     * fruits, and
     
     * physical activity
-   
+
+
+* Healthy diet
+
+    * https://eatforum.org/eat-lancet-commission/the-planetary-health-diet-and-you/
+
+
 * Contact
 
    * Professor Trilokeshwar Shonku
+
+
+* Acnowledgements
    
-   * Acnowledgements
-   
-      * My mother Kalyani Banerjee
+   * My mother Kalyani Banerjee
    
    
