@@ -82,9 +82,15 @@
     * physical activity
 
 
-* Healthy diet
+* On a more serious note
 
-    * https://eatforum.org/eat-lancet-commission/the-planetary-health-diet-and-you/
+    * Healthy diet
+
+      * https://eatforum.org/eat-lancet-commission/the-planetary-health-diet-and-you/
+      
+      * https://www.mrc-epid.cam.ac.uk/blog/lancet-commission-global-diabetes-epidemic/
+      
+      * https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32374-6/fulltext
 
 
 * Contact
