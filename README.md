@@ -100,6 +100,15 @@
 
 * Acnowledgements
    
-   * My mother Kalyani Banerjee
+   * My mother Kalyani Banerjee, my father Tarakeswar Banerjee and my wife Joyeeta Ghose
+   
+   
+* Citation
+
+   * if you like this recipe please cite the following academic work
+   
+   * Botica Indica, Trilokeshwar Shonku
+   
+   
    
    
