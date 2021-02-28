@@ -21,7 +21,7 @@
    
          * long beans
       
-         * kidney beans
+         * kidney beans (sources of isoflavones)
       
       * Garbanzo peas
    
