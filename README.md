@@ -11,6 +11,8 @@
 
 * Inspirations
 
+    * Botica Indica
+
     * https://en.wikipedia.org/wiki/Professor_Shonku#Inventions_of_Professor_Shonku
 
 * Ingredients
