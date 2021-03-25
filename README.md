@@ -11,7 +11,7 @@
 
 * Inspirations
 
-    * Botica Indica
+    * Botica Indica: a pill that will fulfill all your daily food requirements
 
     * https://en.wikipedia.org/wiki/Professor_Shonku#Inventions_of_Professor_Shonku
 
