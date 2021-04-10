@@ -1,6 +1,6 @@
 # botica_indica
 
-* A recipe inspired by Professor Shonku for those who want to:
+* A recipe inspired by Professor Shonku (a character created by Satyajit Ray) for those who want to:
 
    * eat a healthy and nutritious diet, and
    
@@ -115,7 +115,7 @@
 
    * if you like this recipe please cite the following academic work
    
-   * Botica Indica, Trilokeshwar Shonku
+   * Botica Indica, Professor Trilokeshwar Shonku, Satyajit Ray
    
    
    
