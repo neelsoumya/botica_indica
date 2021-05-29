@@ -83,10 +83,11 @@
     
     * multi-vitamins
     
-    * fruits, and
+    * fruits
     
-    * physical activity
+    * physical activity, and
 
+    * yoga
 
 * On a more serious note
 
