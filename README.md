@@ -37,6 +37,8 @@
    
       * Cauliflower
 
+      * Asparagus
+
       * Stems and shoots of cauliflower (roughage and fiber)
    
    * Proteins
@@ -85,7 +87,7 @@
     
     * fruits
     
-    * physical activity, and
+    * physical activity (walking or a sport)
 
     * yoga
 
