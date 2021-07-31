@@ -41,6 +41,8 @@
 
       * Stems and shoots of cauliflower (roughage and fiber)
    
+   * Seaweed crips cut up
+   
    * Proteins
    
       * Eggs
